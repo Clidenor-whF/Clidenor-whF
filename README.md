@@ -1,6 +1,4 @@
-### Olá! 👋
-
-Sou o Clidenor Cirqueira Catucá
+### Olá, sou o Clidenor
 
 ### Habílidades
 
@@ -8,5 +6,5 @@ Sou o Clidenor Cirqueira Catucá
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clidenor-whF&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clidenor-whF&show_icons=true&theme=dark) 
 
