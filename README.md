@@ -11,12 +11,12 @@
 
 ### Detalhes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clidenor-whf&show_icons=true&theme=algolia) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clidenor-whf&show_icons=true&theme=dark) 
 
 
 ### Projetos.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clidenor-whf&repo=clidenor-whf&theme=algolia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clidenor-whf&repo=clidenor-whf&theme=dark)
 
 
 ### Principais linguagens.
