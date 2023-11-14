@@ -3,8 +3,7 @@
 
 
  ###### Sobre o Clidenor.
- 
- ##### Iniciando a carreira em análise de dados, cursando atualmente na escola Ebac o curso Python para análise de dados...
+ Iniciando a carreira em análise de dados, cursando atualmente na escola Ebac o curso Python para análise de dados...
  
 
  
